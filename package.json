@@ -1,0 +1,18 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "NodeJS test for Mercutio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Trevor",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "csvwriter": "^1.2.0",
+    "fs": "0.0.2",
+    "request": "^2.74.0"
+  }
+}
