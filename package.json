@@ -1,11 +1,11 @@
 {
-  "name": "node_test",
+  "name": "node_challenge",
   "version": "1.0.0",
-  "description": "NodeJS test for Mercutio",
-  "main": "server.js",
+  "description": "NodeJS challenge for Mercutio",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node main.js"
   },
   "author": "Trevor",
   "license": "ISC",
